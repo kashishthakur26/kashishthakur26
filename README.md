@@ -1,5 +1,7 @@
 # <div align="center"> Hello Dev! </div>
-I am a passionate and driven researcher with a strong focus on computer vision, embedded systems, and VLSI design. My projects span diverse fields, from brain tumor classification using deep learning models like CNNs to hardware acceleration and real-time interactive applications on platforms like the BeagleBone-based Bela and PolarFire SoC. I have co-authored a paper on medical drug analysis using Graph Neural Networks, presented at the IEEE SCEECS'24 conference. My research work also includes brain communication, and I continue to explore cutting-edge solutions in hardware and AI for future innovations.
+I am a passionate and driven researcher with a strong focus on computer vision, embedded systems, and VLSI design. My projects span diverse fields, from brain tumor classification using deep learning models like CNNs to hardware acceleration and real-time interactive applications on platforms like the BeagleBone-based Bela and PolarFire SoC. I have co-authored a paper on medical drug analysis using Graph Neural Networks, presented at the IEEE SCEECS'24 conference.
+
+![GIF](
 
 
 ## <div align="center">🌐 Socials: </div>
