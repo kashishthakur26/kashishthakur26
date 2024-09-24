@@ -1,8 +1,11 @@
 # <div align="center"> Hello Dev! </div>
 I am a passionate and driven researcher with a strong focus on computer vision, embedded systems, and VLSI design. My projects span diverse fields, from brain tumor classification using deep learning models like CNNs to hardware acceleration and real-time interactive applications on platforms like the BeagleBone-based Bela and PolarFire SoC. I have co-authored a paper on medical drug analysis using Graph Neural Networks, presented at the IEEE SCEECS'24 conference.
 
-![GIF](
+<div align="center">
 
+![GIF](https://github.com/kashishthakur26/kashishthakur26/blob/main/images/Coding%20gif.gif)
+
+</div>
 
 ## <div align="center">🌐 Socials: </div>
 
@@ -26,7 +29,10 @@ I am a passionate and driven researcher with a strong focus on computer vision, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kashishthakur26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=kashishthakur26&icon=8&color=6)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ ## ✍️ **Words of Wisdom**
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes"/>
+
+</div>
