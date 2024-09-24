@@ -36,3 +36,5 @@ I am a passionate and driven researcher with a strong focus on computer vision, 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes"/>
 
 </div>
+
+![Snake Animation](https://github.com/kashishthakur26/kashishthakur26/blob/main/workflows/main.yml)
