@@ -37,4 +37,4 @@ I am a passionate and driven researcher with a strong focus on computer vision, 
 
 </div>
 
-![Snake Animation](https://github.com/kashishthakur26/kashishthakur26/blob/main/workflows/main.yml)
+![Snake Animation](https://github.com/kashishthakur26/kashishthakur2/blob/output/snake.svg)
